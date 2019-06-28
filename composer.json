@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "easyswoole/easyswoole": "3.x",
+        "joshcam/mysqli-database-class": "dev-master",
+        "elasticsearch/elasticsearch": "~5.0",
+        "easyswoole/redis-pool": "^1.0",
+        "easyswoole/mysqli-pool": "^1.0"
+    }
+}
